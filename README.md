@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dániel</h1>
-<h3 align="center">A passionate student and Frontend developer from Hungary</h3>
+<h3 align="center">A passionate student and Frontend developer</h3>
 
 - 🏢 3+ years of professional experience as a Frontend developer
   
